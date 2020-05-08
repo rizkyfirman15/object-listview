@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvTitle" type="id" />
+    <item name="tvDate" type="id" />
+    <item name="imgNews" type="id" />
+    <item name="imgUsers" type="id" />
+</resources>
